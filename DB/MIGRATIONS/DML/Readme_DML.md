@@ -1,0 +1,1 @@
+DML changes Las operaciones de tipo DML, se almacenan en la carpeta MIGRATIONS/DML con la nomenclatura DML_NombreTicket.
