@@ -1,1 +1,1 @@
-DDL changes Las operaciones DDL sobre objetos que NO tienen la cláusula CREATE OR REPLACE, se almacenan en la carpeta MIGRATIONS/DDL con la nomenclatura OPERACION_ObjetoAsociado. Donde OPERACION se corresponde con ALTER, DROP, etc. Un caso de ejemplo es la adición o eliminación de columnas a las tablas.
+ESTO ES UN APRUEBA 
