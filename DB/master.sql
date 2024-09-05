@@ -1,1 +1,1 @@
-@DB/MIGRATIONS/DDL/view.sql
+@DB/DB/MIGRATIONS/DDL/view.sql
